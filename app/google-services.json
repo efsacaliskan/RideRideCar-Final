@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396804587908",
+    "project_id": "ride-ride-car-2bd29",
+    "storage_bucket": "ride-ride-car-2bd29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396804587908:android:b5da155ca52a9489451dd1",
+        "android_client_info": {
+          "package_name": "com.example.kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgRwMv0_1q1yteYDwvsATgaNOiU1CLXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

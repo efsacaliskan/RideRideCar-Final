@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#FFA040" android:state_pressed="true" /> <!-- Darker Orange -->
+    <!-- Focused state -->
+    <item android:color="#FFB060" android:state_focused="true" /> <!-- Medium Orange -->
+    <!-- Enabled state -->
+    <item android:color="#FFC080" android:state_enabled="true" /> <!-- Light Orange -->
+    <!-- Default state -->
+    <item android:color="#FFD0A0" /> <!-- Very Light Orange -->
+</selector>
